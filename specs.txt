@@ -1,0 +1,8 @@
+We are making a program that can store and search for the users CDs.
+They can also input their own data to look up later.
+
+1. The user inputs their data.
+
+2. The program saves their data.
+
+3. The program can print their CD data.
