@@ -1,4 +1,10 @@
-public class CdList {
+import java.util.ArrayList;
 
-  public CdList(String )
+public class CdList {
+  private ArrayList<CD> mCDs;
+
+  public CdList() {
+    mCDs = new ArrayList<CD>;
+  }
+  
 }
